@@ -3,6 +3,20 @@ layout: default
 title: LYIS Zelzy
 ---
 
+# LYIS Zelzy
+
+Official POP Singer · Songwriter · Composer
+
+---
+
+## Listen & Connect
+
+Spotify  
+YouTube  
+Instagram  
+
+---
+
 ## Posts
 
 <ul>
