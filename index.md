@@ -1,6 +1,11 @@
+---
+layout: default
+title: LYIS Zelzy
+---
+
 # LYIS Zelzy
 
-Indie Pop · Electropop Artist
+Indie Pop · Electropop Artist  
 
 Fragments of voice. Breath turned into melody.
 
@@ -17,7 +22,7 @@ Fragments of voice. Breath turned into melody.
 ## Connect
 
 [Instagram](https://www.instagram.com/lyiszelzy)  
-mailto:lyiszelzy@gmail.com  
+[Email](mailto:lyiszelzy@gmail.com)  
 
 ---
 
