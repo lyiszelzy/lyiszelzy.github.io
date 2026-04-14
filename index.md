@@ -6,9 +6,9 @@ title: LYIS Zelzy
 <h2>Fragments</h2>
 
 <ul>
-{% raw %}{% for post in site.posts %}{% endraw %}
+{% for post in site.posts %}
   <li>
-    <a href="{% raw %}{{ post.url }}{% endraw %}">{% raw %}{{ post.title }}{% endraw %}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
-{% raw %}{% endfor %}{% endraw %}
+{% endfor %}
 </ul>
