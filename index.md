@@ -4,11 +4,12 @@ title: LYIS Zelzy
 ---
 
 # LYIS Zelzy
-[Listen Now](https://lyiszelzy.github.io)
 
 Indie Pop · Electropop Artist  
 
 Fragments of voice. Breath turned into melody.
+
+[Listen Now](https://lyiszelzy.github.io)
 
 ---
 
