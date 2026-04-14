@@ -1,4 +1,6 @@
 title: LYIS Zelzy
 description: Indie Pop · Electropop Artist
 theme: jekyll-theme-minimal
-github: is_project_page: false
+
+github:
+  is_project_page: false
