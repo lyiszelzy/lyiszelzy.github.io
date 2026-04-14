@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Post
 title: LYIS Zelzy
 ---
 
@@ -10,5 +10,5 @@ title: LYIS Zelzy
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
-{% endfor %}
+{endfor}
 </ul>
