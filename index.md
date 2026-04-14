@@ -1,19 +1,23 @@
----
-layout: default
-title: LYIS Zelzy
----
-
 # LYIS Zelzy
 
-Official POP Singer · Songwriter · Composer
+Indie Pop · Electropop Artist
+
+Fragments of voice. Breath turned into melody.
 
 ---
 
-## Listen & Connect
+## Listen
 
 Spotify  
 YouTube  
+Bandcamp  
+
+---
+
+## Connect
+
 Instagram  
+Email   
 
 ---
 
